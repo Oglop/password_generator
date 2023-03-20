@@ -1,0 +1,20 @@
+{
+  "name": "password_generator",
+  "version": "1.0.0",
+  "description": "generates password",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oglop/password_generator.git"
+  },
+  "author": "Stefan Gustavsson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oglop/password_generator/issues"
+  },
+  "homepage": "https://github.com/Oglop/password_generator#readme"
+}
